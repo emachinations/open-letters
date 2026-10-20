@@ -6,6 +6,10 @@
  "subject": "Open Letter to the European Commission: Evidence for the AWS Cloud Investigation",
  "status": "signed",
  "sent": "18 October 2026, 19:42 UTC, by email to EC-DMA@ec.europa.eu",
- "signoff": "Signed off by wadaly@gmail.com on 2026-10-18T18:31:06Z (button; table letterssignoff)",
- "letter_txt_sha256": "17e3fd2b8466bfd27bb301f91fc261e8a8ba96e5dfd59b470ceab7104e2ba98e"
+ "signoff": "Revision 2, published 2026-10-20 without sign-off: revisions are exempt from approval (Will Daly, 2026-10-20: \"Revisions will be exempt from approval.\")",
+ "revision": 2,
+ "reason": "Fixed the three application links, which ended in a stray \":**\" and returned 404 (defect emachinations/open-letters#1). Each now reads, for example, \"**Genesis** (https://genesis.ourlovelysystem.org/):\". No other change.",
+ "letter_txt_sha256": "2f8e7ae2be452ef024f5ab8ecad01f38bca70fb685198475370b5b641512ac14",
+ "revision_1_sha256": "17e3fd2b8466bfd27bb301f91fc261e8a8ba96e5dfd59b470ceab7104e2ba98e",
+ "revision_1_signoff": "Signed off by wadaly@gmail.com on 2026-10-18T18:31:06Z (button; table letterssignoff)"
 }

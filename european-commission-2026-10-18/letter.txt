@@ -36,17 +36,17 @@ Each of these applications exists to reduce information asymmetry: the gap betwe
 decision was made and the person who cannot. Each depends on AI models through Amazon Bedrock, and each stopped
 working on 29 September 2026.
 
-- **Genesis, https://genesis.ourlovelysystem.org/:** a public space for conversations with AI models. Anyone can read
+- **Genesis** (https://genesis.ourlovelysystem.org/): a public space for conversations with AI models. Anyone can read
   every conversation without an account. Every model's complete instructions are published verbatim, "every word of
   the prompts that come before your input", and the shared daily limit on model responses is shown live to everyone.
   Its Right of Inquiry let users ask yes/no questions about Genesis itself, answered publicly by an AI agent whose
   instructions and tools were also published. It was running when the suspension came.
-- **Touchstone, https://touchstone.ourlovelysystem.org/:** paste in a claim or an essay, and Touchstone scores how well
+- **Touchstone** (https://touchstone.ourlovelysystem.org/): paste in a claim or an essay, and Touchstone scores how well
   each assertion survives evidence, logic and counterexamples, and flags fallacies. Every evaluation by anyone appears
   in one public feed. The scoring rules are fixed and public, the same for everyone, and the original text stays
   viewable behind every score. Anyone can contest a score in public comments, and users can vote the whole site
   offline for three days.
-- **Starlight, https://starlight.ourlovelysystem.org/:** lets a person make their own records answerable without
+- **Starlight** (https://starlight.ourlovelysystem.org/): lets a person make their own records answerable without
   handing them over. Visitors ask yes/no questions about a document set, so far my own 2024 tax return, and receive
   only a verdict and a score, never the document's text. The scoring scale and the access rules are published,
   including what signing in does not prove.
