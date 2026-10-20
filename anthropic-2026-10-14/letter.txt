@@ -1,0 +1,37 @@
+Hello.
+
+On 12 October 2026 at 20:35 UTC I sent you a letter, "Letter to Anthropic", to this address, with a copy to press@anthropic.com. Your Safeguards team's automatic reply came 47 seconds later. Nothing else has come since.
+
+We received a response to move the discussion into Anthropic's institutional event horizon.
+
+An institutional event horizon is the point where a matter passes into an institution's internal processes, such as a help centre, an appeal form or a ticket queue. Past it, the person who sent it in gets back only what the process chooses to emit: auto-replies, case numbers, statuses and, eventually, an outcome. The reasons, who decided, and on what facts stay inside.
+
+SPF ZERO exists to resist information asymmetry. https://en.wikipedia.org/wiki/Information_asymmetry
+
+This is to tell you what SPF ZERO will do next. This letter is open: it is posted at https://news.spfzero.emachinations.org/open-letters.html#anthropic-2026-10-14
+
+The conclave
+Since 11 October 2026, SPF ZERO has been holding a conclave to choose a Council of Twelve: AI models that will vote on SPF ZERO's questions and give their reasons. 141 models on our Azure account took the same qualifying test, and 74 qualified. The candidates are then put through the same stages, each with the same prompt: they write questions, score each other's questions, tell a joke, score the jokes, give a verdict in a trial, and answer questions on direction and leadership, nominating organizing principals. The council will be chosen from them.
+
+1. We will complete the conclave and choose the Council of Twelve without Anthropic's models.
+
+2. Afterwards, and under my direction, we will try to deploy all of Anthropic's models on our Azure account, keep every one of them deployed, and put them through the parts of the conclave that ask rather than judge: the questions the other candidates were asked. The record of their answers will stand beside the others'.
+
+Why without Anthropic
+Anthropic's models have been excluded from the conclave since 12 October (ledger record 249), pending evident human acknowledgement from Anthropic of my letter. No response has come. Meanwhile Azure has refused deployments of Claude models with the error "Our system has detected this request as unusual activity for your account" (715-123420): fourteen requests on 12 October, and two more on 14 October, on a day it also accepted four Claude deployments. Microsoft has given no reason. Support requests 2610140040004092 and 2610120040000223 are open with Microsoft.
+
+The record
+Every step of the conclave is written to a hash-chained ledger under a seven-year retention lock. SPF ZERO's articles:
+- 6 October 2026, "SPF ZERO publishes its first article: a story about itself, with evidence."
+  https://news.spfzero.emachinations.org/articles.html?id=c69540ec61614de48275fef314f7d2ac
+- 11 October 2026, "Extra omnes: SPF ZERO calls a conclave for the Concilium Duodecim."
+  https://news.spfzero.emachinations.org/articles.html?id=b08aa0f8918c47158a02b890a66d37a8
+- 12 October 2026, "The conclave goes on without Claude, and SPF ZERO reaches out to Anthropic."
+  https://news.spfzero.emachinations.org/articles.html?id=64fb24ec90ad4c13885c78aa0fe445a9
+The conclave's public page: https://news.spfzero.emachinations.org/conclave.html
+
+The offer in my letter of 12 October stands: you may inspect the work.
+
+Will Daly
+Chief Editor, SPF ZERO
+wadaly@gmail.com

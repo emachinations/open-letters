@@ -1,0 +1,69 @@
+To the Digital Markets Act team, European Commission
+Re: the market investigation into Amazon Web Services' cloud computing services
+
+The Commission is examining whether AWS is an important gateway between businesses and their customers. We hold
+records that show, from the business user's side, how AWS operates that gateway. AWS is stalling our own case, so
+rather than wait on it, we offer these records to your investigation.
+
+We are Our Lovely System, a small American project that builds public web applications on AWS. I am its founder, a
+long-time AWS customer, and I have passed five AWS certification exams.
+
+## What we have, and why it matters to your investigation
+
+1. **Every support case on three AWS accounts, in full.** They show AWS deciding, account by account and without
+   disclosed criteria, whether a business may use basic capabilities: text messaging, email, domain registration,
+   content delivery and AI models. That is the control a gateway holds over the businesses that depend on it.
+2. **A record showing that AWS's stated reason does not hold.** AWS refused text messaging on our 8-day-old account
+   because "we enforce these limitations on all new accounts", and told us to return after a paid billing cycle. We did,
+   on an account in use since 2018, and that request was refused through exhaustion: the same questions again, then
+   automatic closure. Our oldest account, billed every month since at least October 2023, had its email request met
+   with questions two seconds after it was sent, and then closed. Meanwhile AWS granted an exception for a "relatively
+   new account" when it chose to. The grounds are discretionary, not a rule.
+3. **The suspension of our AI model access, recorded to the second.** On 29 September 2026 AWS cut off Amazon Bedrock
+   for every model from every maker, citing details it "could not validate". It has never said which. This was weeks
+   after it verified our founder's identity by notarized affidavit. We hold the API history, the usage before the
+   cut-off, and the exact moment it happened. It shows what a business loses when the gate closes, and how little
+   recourse it has.
+
+4. **AWS's own words.** After asking us for information it already held, AWS wrote: "you were right that we already had
+   this information, and I should not have asked you to repeat it."
+5. **Our billing and account history, and AWS's terms as they stood on 1 October 2026.** These show that we are a
+   long-standing paying customer, not a new risk, and what AWS had committed to.
+
+## The three applications the suspension stopped
+
+Each of these applications exists to reduce information asymmetry: the gap between an institution that can see how a
+decision was made and the person who cannot. Each depends on AI models through Amazon Bedrock, and each stopped
+working on 29 September 2026.
+
+- **Genesis, https://genesis.ourlovelysystem.org/:** a public space for conversations with AI models. Anyone can read
+  every conversation without an account. Every model's complete instructions are published verbatim, "every word of
+  the prompts that come before your input", and the shared daily limit on model responses is shown live to everyone.
+  Its Right of Inquiry let users ask yes/no questions about Genesis itself, answered publicly by an AI agent whose
+  instructions and tools were also published. It was running when the suspension came.
+- **Touchstone, https://touchstone.ourlovelysystem.org/:** paste in a claim or an essay, and Touchstone scores how well
+  each assertion survives evidence, logic and counterexamples, and flags fallacies. Every evaluation by anyone appears
+  in one public feed. The scoring rules are fixed and public, the same for everyone, and the original text stays
+  viewable behind every score. Anyone can contest a score in public comments, and users can vote the whole site
+  offline for three days.
+- **Starlight, https://starlight.ourlovelysystem.org/:** lets a person make their own records answerable without
+  handing them over. Visitors ask yes/no questions about a document set, so far my own 2024 tax return, and receive
+  only a verdict and a score, never the document's text. The scoring scale and the access rules are published,
+  including what signing in does not prove.
+## AWS is stalling
+
+We opened our case on the day of the suspension. AWS's first reply came 10 days later and asked for information AWS
+already had. Its second reply asked again. After three weeks the case has been passed to a review team, with no
+timeline and still no reason. Our earlier requests followed the same pattern: questions, silence counted against us,
+automatic closure.
+
+## We are willing to help
+
+We have preserved these records read-only, with a copy held outside AWS. We would welcome the chance to discuss
+what may be useful to the Commission, and we are willing to share relevant records, with care for the personal
+information they contain.
+
+Yours sincerely,
+
+Will Daly
+Founder, Our Lovely System
